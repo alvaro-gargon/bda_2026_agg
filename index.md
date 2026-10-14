@@ -26,6 +26,6 @@ Escribir codigo fuente
 ``` python
 print("hola mundo")
  ```
-[martes, noche de casino](./ut01/index.md)
+[index unidad 1](./ut01/index.md)
 
 ![alt text](imagen.png)
